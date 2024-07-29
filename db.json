@@ -1,0 +1,80 @@
+{
+    "company": {
+      "name": "Tech Solutions Inc.",
+      "address": {
+        "street": "123 Innovation Drive",
+        "city": "Tech City",
+        "state": "CA",
+        "postalCode": "90001"
+      },
+      "products": [
+        {
+          "id": 101,
+          "name": "Product X",
+          "category": "Software",
+          "price": 499.99,
+          "releaseDate": "2023-01-20",
+          "features": {
+            "feature1": "User-friendly interface",
+            "feature2": "Seamless integration",
+            "feature3": "High performance"
+          },
+          "tags": ["innovative", "efficient", "scalable"]
+        }
+      ]
+    },
+    "partners": [
+      {
+        "id": "P1",
+        "name": "Partner A",
+        "industry": "IT Services",
+        "contact": {
+          "email": "contact@partnera.com",
+          "phone": "987-654-3210"
+        },
+        "collaborationProjects": [
+          {
+            "name": "Joint Venture 1",
+            "role": "Co-developer",
+            "status": "Active",
+            "startDate": "2023-04-01",
+            "endDate": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "id": "P2",
+        "name": "Partner B",
+        "industry": "Marketing",
+        "contact": {
+          "email": "contact@partnerb.com",
+          "phone": "987-654-3211"
+        },
+        "collaborationProjects": [
+          {
+            "name": "Campaign Epsilon",
+            "role": "Marketing Partner",
+            "status": "Planned",
+            "startDate": "2024-06-01",
+            "endDate": "2025-06-01"
+          }
+        ]
+      }
+    ],
+    "financials": {
+      "fiscalYear": 2023,
+      "revenue": 10000000,
+      "expenses": 7500000,
+      "netIncome": 2500000,
+      "assets": {
+        "cash": 5000000,
+        "inventory": 2000000,
+        "property": 3000000
+      },
+      "liabilities": {
+        "loans": 1000000,
+        "accountsPayable": 1500000
+      }
+    }
+  }
+  
