@@ -1,2 +1,3 @@
 # Fast-API-server
-Dummy API server to test your api locally
+
+Uses fast api to create a dummy api using whihc you ca ndo the dev work 
